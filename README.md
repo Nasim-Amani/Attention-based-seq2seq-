@@ -1,4 +1,4 @@
-# Load Forecasting Model
+# Electricity Load Forecasting Using Weather-Sensitive Attention Mechanism and Bayesian Optimization
 
 This repository contains a machine learning model for load forecasting, utilizing an attention-based sequence-to-sequence architecture. The model's hyperparameters are optimized through Bayesian Optimization (BO) techniques to enhance performance.
 
